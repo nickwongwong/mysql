@@ -10,7 +10,7 @@
 |--|--|----|--|
 |Action|String|是|系统规定参数，取值：ModifySQLCollectorPolicy。|
 |DBInstanceId|String|是|实例名。|
-|SQLCollectorStatus|String|是| -   Enabled：SQL采集开启
+|SQLCollectorStatus|String|是| -   Enable：SQL采集开启
 -   Disabled：SQL采集关闭
 
  |
